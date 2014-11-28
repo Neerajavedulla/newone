@@ -1,0 +1,9 @@
+c:\users\neeraja.vedulla\documents\visual studio 2010\Projects\ConsoleApplication2\mathtest\bin\Debug\mathtest.dll
+c:\users\neeraja.vedulla\documents\visual studio 2010\Projects\ConsoleApplication2\mathtest\bin\Debug\mathtest.pdb
+c:\users\neeraja.vedulla\documents\visual studio 2010\Projects\ConsoleApplication2\mathtest\bin\Debug\ConsoleApplication2.exe
+c:\users\neeraja.vedulla\documents\visual studio 2010\Projects\ConsoleApplication2\mathtest\bin\Debug\nunit.framework.dll
+c:\users\neeraja.vedulla\documents\visual studio 2010\Projects\ConsoleApplication2\mathtest\bin\Debug\ConsoleApplication2.pdb
+c:\users\neeraja.vedulla\documents\visual studio 2010\Projects\ConsoleApplication2\mathtest\bin\Debug\nunit.framework.xml
+c:\users\neeraja.vedulla\documents\visual studio 2010\Projects\ConsoleApplication2\mathtest\obj\Debug\mathtest.csprojResolveAssemblyReference.cache
+c:\users\neeraja.vedulla\documents\visual studio 2010\Projects\ConsoleApplication2\mathtest\obj\Debug\mathtest.dll
+c:\users\neeraja.vedulla\documents\visual studio 2010\Projects\ConsoleApplication2\mathtest\obj\Debug\mathtest.pdb
